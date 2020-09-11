@@ -1,0 +1,14 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+node/
+node_modules/
+.idea/
+*.iml
+temp/
+
+.DS_Store
+Thumbs.db
+rebel.xml
+.sass-cache/
+*.css.map
+*.js.map
